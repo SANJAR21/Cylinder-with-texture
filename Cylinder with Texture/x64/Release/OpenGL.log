@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\OpenGL\main.cpp(79,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\main.cpp(84,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\main.cpp(89,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\main.cpp(94,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\main.cpp(99,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\main.cpp(104,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\main.cpp(165,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\main.cpp(166,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\main.cpp(73,8): warning C4101: 'texc': unreferenced local variable
+  Generating code
+  1 of 438 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGL.vcxproj -> D:\OpenGL\x64\Release\OpenGL.exe
